@@ -1,0 +1,41 @@
+.tawkContainer
+{
+	max-width: 1000px;
+	margin: 0 auto;
+	background: #fff;
+	border: 1px solid #dedede;
+}
+
+.tawkdiv{
+   /* float: left; */
+   width: 49%;
+   display: inline-block;
+   max-width: 700px;
+   text-align: center;
+   vertical-align: top;
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.tawkText
+{
+	padding: 7px 20px;
+}
+
+.tawkp{
+	text-align: center;
+    font-size: 2em;
+    line-height: 1.4em;
+}
+
+.tawkbtn{
+	padding: 15px 23px !important;
+	font-size: 2.1em !important;
+	margin: 10px 0 !important;
+	height: auto  !important;
+}
+
+.tawkbtn:hover{
+	color:#ffffff;
+}
