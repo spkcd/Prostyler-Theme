@@ -1,0 +1,2766 @@
+# Copyright (C) 2017 ProStyler (Michael.F & Yunus.J)
+# This file is distributed under the same license as the Pro Styler Rev package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pro Styler Rev 4.01\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/prostyler-theme\n"
+"POT-Creation-Date: 2017-06-05 02:47:45+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:34 template_parts/archive.php:98 template_parts/posts.php:105
+msgid "The page you were looking for was not found."
+msgstr ""
+
+#: author-info.php:15
+msgid "About %s"
+msgstr ""
+
+#: comments.php:22
+msgid "<span>No</span> Responses"
+msgstr ""
+
+#: comments.php:22
+msgid "<span>One</span> Response"
+msgstr ""
+
+#: comments.php:22
+msgid "<span>%</span> Response"
+msgid_plural "<span>%</span> Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgid "No Comments"
+msgstr ""
+
+#: comments.php:34
+msgid "Be the first to start a conversation"
+msgstr ""
+
+#: comments.php:50
+msgid "Next Comments  "
+msgstr ""
+
+#: comments.php:85
+msgid "Name is required"
+msgstr ""
+
+#: comments.php:92
+msgid "Email is required"
+msgstr ""
+
+#: comments.php:99
+msgid "Comment is required"
+msgstr ""
+
+#: comments.php:123
+msgid "comments are closed"
+msgstr ""
+
+#: comments.php:135
+msgid "Trackbacks and Pingbacks:"
+msgstr ""
+
+#: footer.php:83
+msgid "Footer menu"
+msgstr ""
+
+#: footer.php:99
+msgid "Return to top"
+msgstr ""
+
+#: functions.php:103
+msgid "Default Sidebar"
+msgstr ""
+
+#: functions.php:104
+msgid "The first (primary) sidebar."
+msgstr ""
+
+#: functions.php:114
+msgid "Extra Widget Area 1"
+msgstr ""
+
+#: functions.php:115 functions.php:125
+msgid "To be used in pages with \"Widgetised Sidebar\" element."
+msgstr ""
+
+#: functions.php:124
+msgid "Extra Widget Area 2"
+msgstr ""
+
+#: functions.php:137
+msgid "Footer Widget 1"
+msgstr ""
+
+#: functions.php:138
+msgid "1st column of footer."
+msgstr ""
+
+#: functions.php:147
+msgid "Footer Widget 2"
+msgstr ""
+
+#: functions.php:148
+msgid "2nd column of footer."
+msgstr ""
+
+#: functions.php:163
+msgid "Footer Widget 3"
+msgstr ""
+
+#: functions.php:164
+msgid "3rd column of footer."
+msgstr ""
+
+#: functions.php:174
+msgid "Footer Widget 4"
+msgstr ""
+
+#: functions.php:175
+msgid "4th column of footer."
+msgstr ""
+
+#: functions.php:256
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: functions.php:257
+msgid "F jS, Y"
+msgstr ""
+
+#: functions.php:258
+msgid "(Edit)"
+msgstr ""
+
+#: functions.php:261
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: library/bones.php:344 library/bones.php:372
+msgid "The Main Menu"
+msgstr ""
+
+#: library/bones.php:345
+msgid "Footer Menu"
+msgstr ""
+
+#: library/bones.php:430
+msgid "No Related Posts Yet!"
+msgstr ""
+
+#: library/bones.php:481
+msgid "Read"
+msgstr ""
+
+#: library/bones.php:481
+msgid "Read More"
+msgstr ""
+
+#: library/brew.php:13
+msgid "Continue Reading..."
+msgstr ""
+
+#: library/builder/core/helper/functions.php:1801
+#: library/cbt_framework/includes/widget_shortcode.php:82
+msgid "----- Select Page ----"
+msgstr ""
+
+#: library/builder/shortcodes/content/content.php:186
+#: template_parts/archive.php:54 template_parts/posts.php:55
+#: template_parts/single.php:53
+msgid "Pages:"
+msgstr ""
+
+#: library/builder/shortcodes/content/content.php:195
+#: template_parts/archive.php:63 template_parts/posts.php:64
+#: template_parts/single.php:62
+msgid "in %1$s&nbsp;&nbsp;"
+msgstr ""
+
+#: library/builder/shortcodes/content/content.php:198
+#: template_parts/archive.php:66 template_parts/posts.php:67
+#: template_parts/single.php:65
+msgid "<i class=\"fa fa-tags\"></i>"
+msgstr ""
+
+#: library/builder/shortcodes/gallery/gallery.php:170
+msgid "Show all"
+msgstr ""
+
+#: library/cbt_framework/includes/comments.php:21
+msgid "Your Name"
+msgstr ""
+
+#: library/cbt_framework/includes/comments.php:23
+msgid "Your email"
+msgstr ""
+
+#: library/cbt_framework/includes/comments.php:25
+msgid "Your website url"
+msgstr ""
+
+#: library/cbt_framework/includes/comments.php:34
+msgid "Your review"
+msgstr ""
+
+#: library/cbt_framework/includes/comments.php:37
+msgid "Your review here..."
+msgstr ""
+
+#: library/cbt_framework/includes/comments.php:46
+msgid "Your Comment here..."
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:97
+msgid "Web Application"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:99
+msgid "Adjust"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:100
+msgid "Anchor"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:101
+msgid "Archive"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:102
+#: library/cbt_framework/includes/menu_icons.php:103
+#: library/cbt_framework/includes/menu_icons.php:104
+#: library/cbt_framework/includes/menu_icons.php:391
+#: library/cbt_framework/includes/menu_icons.php:392
+#: library/cbt_framework/includes/menu_icons.php:393
+#: library/cbt_framework/includes/menu_icons.php:394
+#: library/cbt_framework/includes/menu_icons.php:486
+msgid "Arrows"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:105
+msgid "Asterisk"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:106
+msgid "Ban"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:107
+msgid "Bar Chart"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:108
+msgid "Barcode"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:109
+msgid "Bars"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:110
+msgid "Beer"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:111
+#: library/cbt_framework/includes/menu_icons.php:112
+msgid "Bell"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:113
+msgid "Bolt"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:114
+msgid "Book"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:115
+#: library/cbt_framework/includes/menu_icons.php:116
+msgid "Bookmark"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:117
+msgid "Bomb"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:118
+msgid "Briefcase"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:119
+msgid "Bug"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:120
+#: library/cbt_framework/includes/menu_icons.php:121
+msgid "Building"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:122
+msgid "Bullhorn"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:123
+msgid "Bullseye"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:124
+#: library/cbt_framework/includes/menu_icons.php:125
+msgid "Calendar"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:126
+msgid "Camera"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:127
+msgid "Camera Retro"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:128
+msgid "Car"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:129
+#: library/cbt_framework/includes/menu_icons.php:395
+#: library/cbt_framework/includes/menu_icons.php:399
+msgid "Caret Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:130
+#: library/cbt_framework/includes/menu_icons.php:396
+#: library/cbt_framework/includes/menu_icons.php:400
+msgid "Caret Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:131
+#: library/cbt_framework/includes/menu_icons.php:397
+#: library/cbt_framework/includes/menu_icons.php:401
+msgid "Caret Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:132
+#: library/cbt_framework/includes/menu_icons.php:398
+#: library/cbt_framework/includes/menu_icons.php:402
+msgid "Caret Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:133
+msgid "Certificate"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:134
+#: library/cbt_framework/includes/menu_icons.php:135
+#: library/cbt_framework/includes/menu_icons.php:136
+#: library/cbt_framework/includes/menu_icons.php:137
+#: library/cbt_framework/includes/menu_icons.php:138
+msgid "Check"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:139
+msgid "Child"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:140
+#: library/cbt_framework/includes/menu_icons.php:141
+#: library/cbt_framework/includes/menu_icons.php:142
+#: library/cbt_framework/includes/menu_icons.php:143
+msgid "Circle"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:144
+msgid "Clock"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:145
+msgid "Cloud"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:146
+msgid "Cloud Download"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:147
+msgid "Cloud Upload"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:148
+msgid "Code"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:149
+msgid "Code Fork"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:150
+msgid "Coffee"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:151
+msgid "Cog"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:152
+msgid "Cogs"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:153
+#: library/cbt_framework/includes/menu_icons.php:154
+msgid "Comment"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:155
+#: library/cbt_framework/includes/menu_icons.php:156
+msgid "Comments"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:157
+msgid "Compass"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:158
+msgid "Credit Card"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:159
+msgid "Crop"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:160
+msgid "Crosshairs"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:161
+msgid "Cube"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:162
+msgid "Cubes"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:163
+msgid "Cutlery"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:164
+msgid "Dashboard"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:165
+msgid "Database"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:166
+msgid "Desktop"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:167
+msgid "Dot"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:168
+msgid "Download"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:169
+msgid "Edit"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:170
+#: library/cbt_framework/includes/menu_icons.php:171
+msgid "Ellipsis"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:172
+#: library/cbt_framework/includes/menu_icons.php:173
+#: library/cbt_framework/includes/menu_icons.php:174
+msgid "Envelope"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:175
+#: library/cbt_framework/includes/menu_icons.php:455
+msgid "Eraser"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:176
+msgid "Exchange"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:177
+#: library/cbt_framework/includes/menu_icons.php:178
+#: library/cbt_framework/includes/menu_icons.php:179
+msgid "Exclamation"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:180
+#: library/cbt_framework/includes/menu_icons.php:181
+msgid "External Link"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:182
+#: library/cbt_framework/includes/menu_icons.php:183
+msgid "Eye"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:184
+msgid "Fax"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:185
+msgid "Female"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:186
+msgid "Fighter Jet"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:187
+msgid "Film"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:188
+msgid "Filter"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:189
+msgid "Fire"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:190
+msgid "Fire Extinguisher"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:191
+#: library/cbt_framework/includes/menu_icons.php:192
+#: library/cbt_framework/includes/menu_icons.php:193
+msgid "Flag"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:194
+msgid "Flash"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:195
+msgid "Flask"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:196
+#: library/cbt_framework/includes/menu_icons.php:198
+msgid "Folder"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:197
+#: library/cbt_framework/includes/menu_icons.php:199
+msgid "Folder Open"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:200
+msgid "Frown"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:201
+msgid "Gamepad"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:202
+msgid "Gavel"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:203
+msgid "Gear"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:204
+msgid "Gears"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:205
+msgid "Gift"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:206
+msgid "Glass"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:207
+msgid "Globe"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:208
+msgid "Graduation Cap"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:209
+msgid "Group"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:210
+msgid "HDD"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:211
+#: library/option-config.php:995
+msgid "Header"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:212
+msgid "Headphones"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:213
+#: library/cbt_framework/includes/menu_icons.php:214
+msgid "Heart"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:215
+msgid "Home"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:216
+msgid "History"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:217
+msgid "Inbox"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:218
+#: library/cbt_framework/includes/menu_icons.php:219
+msgid "Info"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:220
+msgid "Key"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:221
+msgid "Keyboard"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:222
+msgid "Language"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:223
+msgid "Laptop"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:224
+msgid "Leaf"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:225
+msgid "Legal"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:226
+msgid "Lemon"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:227
+msgid "Level Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:228
+msgid "Level Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:229
+msgid "Life Buoy"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:230
+msgid "Lightbulb"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:231
+msgid "Location Arrow"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:232
+msgid "Lock"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:233
+msgid "Magic"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:234
+msgid "Magnet"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:235
+msgid "Mail Forward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:236
+msgid "Mail Reply"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:237
+msgid "Mail Reply All"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:238
+msgid "Male"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:239
+msgid "Map Marker"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:240
+msgid "Meh"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:241
+#: library/cbt_framework/includes/menu_icons.php:242
+msgid "Microphone"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:243
+#: library/cbt_framework/includes/menu_icons.php:244
+#: library/cbt_framework/includes/menu_icons.php:245
+#: library/cbt_framework/includes/menu_icons.php:246
+msgid "Minus"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:247
+msgid "Mobile"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:248
+msgid "Mobile Phone"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:249
+msgid "Moon"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:250
+msgid "Music"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:251
+msgid "Paw"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:252
+#: library/cbt_framework/includes/menu_icons.php:253
+msgid "Paper Plane"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:254
+#: library/cbt_framework/includes/menu_icons.php:255
+#: library/cbt_framework/includes/menu_icons.php:256
+msgid "Pencil"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:257
+#: library/cbt_framework/includes/menu_icons.php:258
+#: library/cbt_framework/includes/widget_contact.php:63
+msgid "Phone"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:259
+msgid "Picture"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:260
+msgid "Plane"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:261
+#: library/cbt_framework/includes/menu_icons.php:262
+#: library/cbt_framework/includes/menu_icons.php:263
+#: library/cbt_framework/includes/menu_icons.php:264
+msgid "Plus"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:265
+msgid "Power Off"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:266
+msgid "Print"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:267
+msgid "Puzzle Piece"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:268
+msgid "QR Code"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:269
+#: library/cbt_framework/includes/menu_icons.php:270
+msgid "Question"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:271
+msgid "Quote Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:272
+msgid "Quote Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:273
+msgid "Random"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:274
+msgid "Rebel"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:275
+msgid "Recycle"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:276
+msgid "Refresh"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:277
+msgid "Reply"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:278
+msgid "Reply All"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:279
+msgid "Retweet"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:280
+msgid "Road"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:281
+msgid "Rocket"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:282
+msgid "RSS"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:283
+msgid "RSS Square"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:284 searchform.php:12
+#: searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:285
+msgid "Search Minus"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:286
+msgid "Search Plus"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:287
+#: library/cbt_framework/includes/menu_icons.php:288
+#: library/cbt_framework/includes/menu_icons.php:289
+#: library/cbt_framework/includes/menu_icons.php:290
+#: library/cbt_framework/includes/menu_icons.php:291
+msgid "Share"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:292
+msgid "Shield"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:293
+msgid "Shopping Cart"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:294
+msgid "Sign In"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:295
+msgid "Sign Out"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:296
+msgid "Signal"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:297
+msgid "Sitemap"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:298
+msgid "Sliders"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:299
+msgid "Smile"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:300
+msgid "Sort"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:301
+msgid "Sort ASC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:302
+msgid "Sort DESC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:303
+msgid "Sort Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:304
+msgid "Sort Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:305
+msgid "Sort Alpha ASC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:306
+msgid "Sort Alpha DESC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:307
+msgid "Sort Amount ASC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:308
+msgid "Sort Amount DESC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:309
+msgid "Sort Numeric ASC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:310
+msgid "Sort Numeric DESC"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:311
+msgid "Space Shuttle"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:312
+msgid "Spoon"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:313
+msgid "Spinner"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:314
+#: library/cbt_framework/includes/menu_icons.php:315
+msgid "Square"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:316
+#: library/cbt_framework/includes/menu_icons.php:321
+msgid "Star"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:317
+#: library/cbt_framework/includes/menu_icons.php:318
+msgid "Star Half"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:319
+msgid "Star Half Empty"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:320
+msgid "Star Half Full"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:322
+msgid "Subscript"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:323
+msgid "Suitcase"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:324
+msgid "Sun"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:325
+msgid "Superscript"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:326
+msgid "Tablet"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:327
+msgid "Tachometer"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:328
+msgid "Tag"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:329 page.php:57 page.php:113
+#: template-blank.php:127 template-home-sidebar.php:55
+#: template-home-sidebar.php:110 template-home.php:105 template-sidebar.php:113
+msgid "Tags"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:330
+msgid "Tasks"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:331
+msgid "Taxi"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:332
+msgid "Terminal"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:333
+msgid "Thumb Tack"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:334
+#: library/cbt_framework/includes/menu_icons.php:336
+msgid "Thumbs Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:335
+#: library/cbt_framework/includes/menu_icons.php:337
+msgid "Thumbs Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:338
+msgid "Ticket"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:339
+#: library/cbt_framework/includes/menu_icons.php:340
+#: library/cbt_framework/includes/menu_icons.php:341
+msgid "Times"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:342
+msgid "Tint"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:343
+msgid "Toggle Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:344
+msgid "Toggle Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:345
+msgid "Toggle Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:346
+msgid "Toggle Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:347
+msgid "Tree"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:348
+msgid "Trash"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:349
+msgid "Trophy"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:350
+msgid "Truck"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:351
+msgid "Umbrella"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:352
+msgid "University"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:353
+#: library/cbt_framework/includes/menu_icons.php:354
+msgid "Unlock"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:355
+msgid "Unsorted"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:356
+msgid "Upload"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:357
+msgid "User"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:358
+msgid "Users"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:359
+msgid "Video Camera"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:360
+msgid "Volume Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:361
+msgid "Volume Of"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:362
+msgid "Volume Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:363
+msgid "Warning"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:364
+msgid "Wrench"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:369
+msgid "Directional"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:371
+msgid "Angle Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:372
+msgid "Angle Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:373
+msgid "Angle Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:374
+msgid "Angle Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:375
+msgid "Angle Double Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:376
+msgid "Angle Double Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:377
+msgid "Angle Double Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:378
+msgid "Angle Double Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:379
+#: library/cbt_framework/includes/menu_icons.php:383
+msgid "Arrow Circle Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:380
+#: library/cbt_framework/includes/menu_icons.php:384
+msgid "Arrow Circle Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:381
+#: library/cbt_framework/includes/menu_icons.php:385
+msgid "Arrow Circle Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:382
+#: library/cbt_framework/includes/menu_icons.php:386
+msgid "Arrow Circle Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:387
+msgid "Arrow Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:388
+msgid "Arrow Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:389
+msgid "Arrow Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:390
+msgid "Arrow Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:403
+msgid "Chevron Circle Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:404
+msgid "Chevron Circle Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:405
+msgid "Chevron Circle Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:406
+msgid "Chevron Circle Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:407
+msgid "Chevron Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:408
+msgid "Chevron Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:409
+msgid "Chevron Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:410
+msgid "Chevron Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:411
+msgid "Hand Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:412
+msgid "Hand Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:413
+msgid "Hand Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:414
+msgid "Hand Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:415
+msgid "Long Arrow Down"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:416
+msgid "Long Arrow Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:417
+msgid "Long Arrow Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:418
+msgid "Long Arrow Up"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:423
+msgid "File Types"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:425
+#: library/cbt_framework/includes/menu_icons.php:426
+msgid "File"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:427
+#: library/cbt_framework/includes/menu_icons.php:428
+msgid "File: Text"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:429
+msgid "File: Archive"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:430
+msgid "File: Audio"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:431
+msgid "File: Code"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:432
+msgid "File: Excel"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:433
+msgid "File: Image"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:434
+msgid "File: PDF"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:435
+msgid "File: Powerpoint"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:436
+msgid "File: Video"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:437
+msgid "File: Word"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:443
+msgid "Text Editor"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:445
+msgid "Align Left"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:446
+msgid "Align Center"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:447
+msgid "Justify"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:448
+msgid "Align Right"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:449
+msgid "Bold"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:450
+msgid "Clipboard"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:451
+msgid "Columns"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:452
+msgid "Copy"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:453
+msgid "Cut"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:454
+msgid "Paste"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:456
+msgid "Files"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:457
+msgid "Font"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:458
+msgid "Indent"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:459
+msgid "Outdent"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:460
+msgid "Italic"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:461
+msgid "Link"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:462
+msgid "Unlink"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:463
+#: library/cbt_framework/includes/menu_icons.php:464
+msgid "List"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:465
+msgid "Ordered List"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:466
+msgid "Unordered List"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:467
+msgid "Paperclip"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:468
+msgid "Paragraph"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:469
+msgid "Repeat"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:470
+msgid "Undo"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:471
+msgid "Save"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:472
+msgid "Strikethrough"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:473
+msgid "Table"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:474
+msgid "Text Height"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:475
+msgid "Text Width"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:476
+msgid "TH"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:477
+msgid "TH Large"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:478
+msgid "TH List"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:479
+msgid "Underline"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:484
+msgid "Video Player"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:487
+msgid "Backward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:488
+msgid "Compress"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:489
+msgid "Eject"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:490
+msgid "Expand"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:491
+msgid "Fast Backward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:492
+msgid "Fast Forward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:493
+msgid "Forward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:494
+msgid "Pause"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:495
+#: library/cbt_framework/includes/menu_icons.php:496
+#: library/cbt_framework/includes/menu_icons.php:497
+msgid "Play"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:498
+msgid "Step Backward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:499
+msgid "Step Forward"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:500
+msgid "Stop"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:501
+msgid "%s Play"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:507
+msgid "Currency"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:509
+msgid "Bitcoin"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:510
+msgid "Dollar"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:511
+msgid "Euro"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:512
+msgid "GBP"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:513
+msgid "Money"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:514
+msgid "Rouble"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:515
+msgid "Rupee"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:516
+msgid "Turkish Lira"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:517
+msgid "Won"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:518
+msgid "Yen"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:522
+msgid "medical"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:523
+msgid "Medical"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:525
+msgid "Ambulance"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:526
+#: library/cbt_framework/includes/menu_icons.php:527
+msgid "Hospital"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:528
+msgid "Medkit"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:529
+msgid "Stethoscope"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:530
+msgid "User MD"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:531
+msgid "Wheelchair"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:536
+msgid "brand"
+msgstr ""
+
+#: library/cbt_framework/includes/menu_icons.php:537
+msgid "Brand"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:40
+msgid "Page Settings"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:50
+msgid "Google map height"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:58
+#: library/cbt_framework/includes/metaboxes.php:187
+msgid "Sidebar"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:67
+msgid "Layout"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:80
+#: library/option-config.php:683 library/option-config.php:1215
+msgid "Background"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:95
+msgid "Custom Background"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:107
+#: library/option-config.php:733
+msgid "ProStyler Video backgrounds"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:112
+msgid "These are pre-made, ready to go video backgrounds"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:119
+msgid "Youtube URL"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:130
+#: library/option-config.php:760
+msgid "Video URL (MP4)"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:141
+#: library/option-config.php:773
+msgid "Video URL (WebM)"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:152
+#: library/option-config.php:786
+msgid "Video Still Image"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:157
+msgid "Used for mobile and browsers which dont support video"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:163
+msgid "Hide Page Title?"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:164
+#: library/cbt_framework/includes/metaboxes.php:215
+msgid "Yes"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:177
+msgid "Select Sidebar"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:204
+msgid "Post Settings"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:214
+msgid "Hide Post Header?"
+msgstr ""
+
+#: library/cbt_framework/includes/metaboxes.php:570
+#: library/cbt_framework/includes/metaboxes.php:859
+msgid "Add or Upload Image"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_contact.php:66
+msgid "Email"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_contact.php:69
+msgid "Address"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_contact.php:112
+msgid "To convert an address into latitude & longitude please use <a target=\"_blank\" href=\"http://www.latlong.net/convert-address-to-lat-long.html\">this converter.</a>"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:17
+msgid "Newsletter Widget"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:31
+msgid "Title"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:41
+msgid "Email Newsletter"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:61
+msgid "Text"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:63
+msgid "Displayed above the form"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:78
+msgid "Opt-in Form HTML Code"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:80
+msgid "Complete form code <b>(Raw HTML Version)</b> from your newsletter service.<br /><small><b>Supported Services:</b> Aweber, ArpReach, ConstantContact, CampaignMonitor, DlGuard, 1Shopping Cart, iContact, InfusionSoft, Interspire, Mailchimp, Madmimi, VashOnMedia</small>"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:94
+msgid "Style"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:100
+msgid "Default"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:104
+msgid "Vertical"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:108
+msgid "Horizontal"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:185
+msgid "Enter your first name"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:191
+msgid "Enter your last name"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:197
+#: library/cbt_framework/includes/widget_newsletter.php:205
+msgid "Enter your email address"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_newsletter.php:199
+#: library/cbt_framework/includes/widget_newsletter.php:207
+msgid "Sign-up"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_shortcode.php:17
+msgid "Shortcode Widget"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_shortcode.php:19
+msgid "Display shortcode in sidebars. WPGlow Builder shortcodes are supported."
+msgstr ""
+
+#: library/cbt_framework/includes/widget_shortcode.php:34
+msgid "Shortcode"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_shortcode.php:36
+msgid "Paste-in any shortcode. WPGlow Builder shortcodes are supported."
+msgstr ""
+
+#: library/cbt_framework/includes/widget_shortcode.php:53
+msgid "[OR]"
+msgstr ""
+
+#: library/cbt_framework/includes/widget_shortcode.php:57
+msgid "Display content from a page"
+msgstr ""
+
+#: library/cbt_framework/includes/woocommerce.php:75
+msgid "View your shopping cart"
+msgstr ""
+
+#: library/cbt_framework/includes/woocommerce.php:149
+msgid "Quantity"
+msgstr ""
+
+#: library/option-config.php:55
+msgid "Get this totally <b>FREE</b> messaging app app that lets you monitor and chat with visitors on your websites."
+msgstr ""
+
+#: library/option-config.php:57
+msgid "Get free widget"
+msgstr ""
+
+#: library/option-config.php:59
+msgid "It takes less than 30 seconds."
+msgstr ""
+
+#: library/option-config.php:95
+msgid "General Settings"
+msgstr ""
+
+#: library/option-config.php:100
+msgid "Site logo"
+msgstr ""
+
+#: library/option-config.php:101
+msgid "Upload your site logo."
+msgstr ""
+
+#: library/option-config.php:102
+msgid "Recommended height: 80px"
+msgstr ""
+
+#: library/option-config.php:111
+msgid "Maximum logo height (px)"
+msgstr ""
+
+#: library/option-config.php:124
+msgid "No Logo Text Color"
+msgstr ""
+
+#: library/option-config.php:134
+msgid "Favicon Upload"
+msgstr ""
+
+#: library/option-config.php:146
+msgid "Phone Number"
+msgstr ""
+
+#: library/option-config.php:156
+msgid "Email Address"
+msgstr ""
+
+#: library/option-config.php:173
+msgid "Show RSS"
+msgstr ""
+
+#: library/option-config.php:182
+msgid "Google Analytics (or any javascript)"
+msgstr ""
+
+#: library/option-config.php:183
+msgid "For Google Analytics: Please enter in your google analytics tracking code here. <br/> Remember to include the <strong>entire script from google</strong>, if you just enter your tracking ID it won't work."
+msgstr ""
+
+#: library/option-config.php:184
+msgid "<b>IMPORTANT:</b> Make sure javascript includes &lt;script&gt;&lt;/script&gt; tags"
+msgstr ""
+
+#: library/option-config.php:192
+msgid "Custom CSS Code"
+msgstr ""
+
+#: library/option-config.php:193
+msgid "If you have any custom CSS you would like added to the site, please enter it here."
+msgstr ""
+
+#: library/option-config.php:206
+msgid "Live Chat"
+msgstr ""
+
+#: library/option-config.php:212
+msgid "Widget Code"
+msgstr ""
+
+#: library/option-config.php:213
+msgid "Enter your widget Code"
+msgstr ""
+
+#: library/option-config.php:218
+msgid "Show widget on every page"
+msgstr ""
+
+#: library/option-config.php:224
+msgid "Show on front page"
+msgstr ""
+
+#: library/option-config.php:231
+msgid "Show on Category pages"
+msgstr ""
+
+#: library/option-config.php:238
+msgid "Show on Tag pages"
+msgstr ""
+
+#: library/option-config.php:245
+msgid "Show on Single Post Pages"
+msgstr ""
+
+#: library/option-config.php:252
+msgid "Exclude Specific URL"
+msgstr ""
+
+#: library/option-config.php:259
+msgid "Excluded URL"
+msgstr ""
+
+#: library/option-config.php:261
+msgid "Enter the url where you <b>do not</b> want the widget to display.<BR>Separate entries with comma(,)."
+msgstr ""
+
+#: library/option-config.php:266
+msgid "Include Specific URL"
+msgstr ""
+
+#: library/option-config.php:273
+msgid "Included URL"
+msgstr ""
+
+#: library/option-config.php:275
+msgid "Enter the url where you <b>want</b> the widget to display.<BR>Separate entries with comma(,)."
+msgstr ""
+
+#: library/option-config.php:282
+msgid "Theme Presets"
+msgstr ""
+
+#: library/option-config.php:283
+msgid "Quick presets to change the look of your website."
+msgstr ""
+
+#: library/option-config.php:289
+msgid "Modern mode"
+msgstr ""
+
+#: library/option-config.php:299
+msgid "Presets"
+msgstr ""
+
+#: library/option-config.php:454
+msgid "Color schemes"
+msgstr ""
+
+#: library/option-config.php:467
+msgid "Theme Colors"
+msgstr ""
+
+#: library/option-config.php:468
+msgid "All accent color related options are listed here."
+msgstr ""
+
+#: library/option-config.php:474
+msgid "Theme Primary Color"
+msgstr ""
+
+#: library/option-config.php:484
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: library/option-config.php:494
+msgid "Enable Dark Mode?"
+msgstr ""
+
+#: library/option-config.php:495
+msgid "Changes content area to black with light text color and matching colors for elements"
+msgstr ""
+
+#: library/option-config.php:503
+msgid "Content background color"
+msgstr ""
+
+#: library/option-config.php:514
+msgid "Content background opacity"
+msgstr ""
+
+#: library/option-config.php:515
+msgid "Select opacity for content background. Useful when used with video backgrounds"
+msgstr ""
+
+#: library/option-config.php:529
+msgid "Footer background color"
+msgstr ""
+
+#: library/option-config.php:539
+msgid "Footer background"
+msgstr ""
+
+#: library/option-config.php:552
+msgid "Footer custom background"
+msgstr ""
+
+#: library/option-config.php:572
+msgid "Footer background opacity"
+msgstr ""
+
+#: library/option-config.php:573
+msgid "Select opacity for footer background texture."
+msgstr ""
+
+#: library/option-config.php:587
+msgid "Bottom footer bar background color"
+msgstr ""
+
+#: library/option-config.php:597 library/option-config.php:607
+msgid "Slider Info box background"
+msgstr ""
+
+#: library/option-config.php:620
+msgid "Slider Info box custom background"
+msgstr ""
+
+#: library/option-config.php:640
+msgid "Slider Info box background opacity"
+msgstr ""
+
+#: library/option-config.php:655
+msgid "Slider Info box text color"
+msgstr ""
+
+#: library/option-config.php:668
+msgid "Boxed Layout"
+msgstr ""
+
+#: library/option-config.php:669
+msgid "All boxed layout related options are listed here."
+msgstr ""
+
+#: library/option-config.php:674
+msgid "Enable Boxed Layout throughout site?"
+msgstr ""
+
+#: library/option-config.php:696 library/option-config.php:1228
+msgid "Custom background"
+msgstr ""
+
+#: library/option-config.php:716
+msgid "Display Video Background"
+msgstr ""
+
+#: library/option-config.php:734
+msgid "These are pre-made, ready to go video backgrounds<br />You can download stills for these videos by clicking <a target=\"_blank\" href=\"http://videobgspst.s3.amazonaws.com/thumbs/stills.zip\">HERE</a>"
+msgstr ""
+
+#: library/option-config.php:747
+msgid "Youtube Video URL"
+msgstr ""
+
+#: library/option-config.php:798
+msgid "Background Color"
+msgstr ""
+
+#: library/option-config.php:810
+msgid "Contact Page"
+msgstr ""
+
+#: library/option-config.php:817
+msgid "Google Maps API Key"
+msgstr ""
+
+#: library/option-config.php:825
+msgid "Default Map Zoom Level"
+msgstr ""
+
+#: library/option-config.php:826
+msgid "Value should be between 1-18, 1 being the entire earth and 18 being right at street level."
+msgstr ""
+
+#: library/option-config.php:833
+msgid "Enable Map Zoom In/Out"
+msgstr ""
+
+#: library/option-config.php:834
+msgid "Do you want users to be able to zoom in/out on the map?"
+msgstr ""
+
+#: library/option-config.php:840
+msgid "Map Center Latitude"
+msgstr ""
+
+#: library/option-config.php:841
+msgid "Please enter the latitude for the maps center point."
+msgstr ""
+
+#: library/option-config.php:848
+msgid "Map Center Longitude"
+msgstr ""
+
+#: library/option-config.php:849
+msgid "Please enter the longitude for the maps center point."
+msgstr ""
+
+#: library/option-config.php:857
+msgid "Use Image for Markers"
+msgstr ""
+
+#: library/option-config.php:858
+msgid "Do you want a custom image to be used for the map markers?"
+msgstr ""
+
+#: library/option-config.php:864
+msgid "Marker Icon Upload"
+msgstr ""
+
+#: library/option-config.php:865
+msgid "Please upload an image that will be used for all the markers on your map."
+msgstr ""
+
+#: library/option-config.php:872
+msgid "Enable Marker Animation"
+msgstr ""
+
+#: library/option-config.php:873
+msgid "This will cause your markers to do a quick bounce as they load in."
+msgstr ""
+
+#: library/option-config.php:879
+msgid "Location #1"
+msgstr ""
+
+#: library/option-config.php:880
+msgid "Toggle location #1"
+msgstr ""
+
+#: library/option-config.php:887 library/option-config.php:919
+#: library/option-config.php:951
+msgid "Latitude"
+msgstr ""
+
+#: library/option-config.php:888 library/option-config.php:920
+#: library/option-config.php:952
+msgid "Please enter the latitude for your first location."
+msgstr ""
+
+#: library/option-config.php:895 library/option-config.php:927
+#: library/option-config.php:959
+msgid "Longitude"
+msgstr ""
+
+#: library/option-config.php:896 library/option-config.php:928
+#: library/option-config.php:960
+msgid "Please enter the longitude for your first location."
+msgstr ""
+
+#: library/option-config.php:903 library/option-config.php:935
+#: library/option-config.php:967
+msgid "Map Infowindow Text"
+msgstr ""
+
+#: library/option-config.php:904
+msgid "If you would like to display any text in an info window for your first location, please enter it here."
+msgstr ""
+
+#: library/option-config.php:911
+msgid "Location #2"
+msgstr ""
+
+#: library/option-config.php:912
+msgid "Toggle location #2"
+msgstr ""
+
+#: library/option-config.php:936
+msgid "If you would like to display any text in an info window for your second location, please enter it here."
+msgstr ""
+
+#: library/option-config.php:943
+msgid "Location #3"
+msgstr ""
+
+#: library/option-config.php:944
+msgid "Toggle location #3"
+msgstr ""
+
+#: library/option-config.php:968
+msgid "If you would like to display any text in an info window for your third location, please enter it here."
+msgstr ""
+
+#: library/option-config.php:975
+msgid "Greyscale Color"
+msgstr ""
+
+#: library/option-config.php:976
+msgid "Toggle a greyscale color scheme (will also unlock a custom color option)"
+msgstr ""
+
+#: library/option-config.php:982
+msgid "Map Extra Color"
+msgstr ""
+
+#: library/option-config.php:996
+msgid "All Header related options are listed here."
+msgstr ""
+
+#: library/option-config.php:1002
+msgid "Header layout style"
+msgstr ""
+
+#: library/option-config.php:1017
+msgid "Header shape"
+msgstr ""
+
+#: library/option-config.php:1031
+msgid "Disable Top bar?"
+msgstr ""
+
+#: library/option-config.php:1032
+msgid "Hides the top most social and contact info bar"
+msgstr ""
+
+#: library/option-config.php:1040
+msgid "Show Top bar on mobile?"
+msgstr ""
+
+#: library/option-config.php:1041
+msgid "Shows the top bar on mobile and responsive view"
+msgstr ""
+
+#: library/option-config.php:1051
+msgid "Top bar background color"
+msgstr ""
+
+#: library/option-config.php:1052
+msgid "Background for the social bar which is displayed at the top"
+msgstr ""
+
+#: library/option-config.php:1065
+msgid "Top bar text color"
+msgstr ""
+
+#: library/option-config.php:1066
+msgid "Text color for the social bar which is displayed at the top"
+msgstr ""
+
+#: library/option-config.php:1079 library/option-config.php:1152
+msgid "Header Background color"
+msgstr ""
+
+#: library/option-config.php:1090
+msgid "Header Background"
+msgstr ""
+
+#: library/option-config.php:1103
+msgid "Header custom background"
+msgstr ""
+
+#: library/option-config.php:1123
+msgid "Header Background opacity"
+msgstr ""
+
+#: library/option-config.php:1124
+msgid "Select opacity for the background."
+msgstr ""
+
+#: library/option-config.php:1138 library/option-config.php:1162
+msgid "Header Text color"
+msgstr ""
+
+#: library/option-config.php:1173
+msgid "No background header for homepage"
+msgstr ""
+
+#: library/option-config.php:1174
+msgid "Makes the header on homepage transparent. Works best with a slider on the first row"
+msgstr ""
+
+#: library/option-config.php:1182
+msgid "Header Text color for no background"
+msgstr ""
+
+#: library/option-config.php:1196
+msgid "Navigation"
+msgstr ""
+
+#: library/option-config.php:1197
+msgid "Navigation settings."
+msgstr ""
+
+#: library/option-config.php:1204 library/option-config.php:1328
+#: library/option-config.php:1392
+msgid "Background color"
+msgstr ""
+
+#: library/option-config.php:1246
+msgid "Background opacity"
+msgstr ""
+
+#: library/option-config.php:1247
+msgid "Select opacity for the navigation background."
+msgstr ""
+
+#: library/option-config.php:1261
+msgid "Navigation bar opacity"
+msgstr ""
+
+#: library/option-config.php:1262
+msgid "Select opacity for the navigation."
+msgstr ""
+
+#: library/option-config.php:1276 library/option-config.php:1338
+msgid "Text color"
+msgstr ""
+
+#: library/option-config.php:1287
+msgid "Current item color"
+msgstr ""
+
+#: library/option-config.php:1297
+msgid "Disable Text Shadow?"
+msgstr ""
+
+#: library/option-config.php:1306
+msgid "Stick navigation to the top when scrolling up?"
+msgstr ""
+
+#: library/option-config.php:1307
+msgid "This will display your navigation when you are scrolling back up. Providing quicker access to visitors"
+msgstr ""
+
+#: library/option-config.php:1320
+msgid "Mobile Navigation"
+msgstr ""
+
+#: library/option-config.php:1321
+msgid "Navigation settings for mobile and responsive view."
+msgstr ""
+
+#: library/option-config.php:1348
+msgid "Toggle button background color"
+msgstr ""
+
+#: library/option-config.php:1364
+msgid "Background under header"
+msgstr ""
+
+#: library/option-config.php:1365
+msgid "This background is displayed below the header with parallax effect while scroll. Shown on pages not using Home page template"
+msgstr ""
+
+#: library/option-config.php:1372
+msgid "Page heading color"
+msgstr ""
+
+#: library/option-config.php:1382
+msgid "Background Image"
+msgstr ""
+
+#: library/option-config.php:1383
+msgid "Upload your header background image here"
+msgstr ""
+
+#: library/option-config.php:1402
+msgid "Background Repeat"
+msgstr ""
+
+#: library/option-config.php:1415
+msgid "Auto resize background image to fit area?"
+msgstr ""
+
+#: library/option-config.php:1416
+msgid "This will ensure your background image always fits no matter what size screen the user has. (Don't use with patterns)"
+msgstr ""
+
+#: library/option-config.php:1424
+msgid "Remove border line?"
+msgstr ""
+
+#: library/option-config.php:1426
+msgid "Removes the thin border from the bottom"
+msgstr ""
+
+#: library/option-config.php:1443
+msgid "Footer"
+msgstr ""
+
+#: library/option-config.php:1444
+msgid "All footer related options are listed here."
+msgstr ""
+
+#: library/option-config.php:1450
+msgid "Footer Columns"
+msgstr ""
+
+#: library/option-config.php:1451
+msgid "Please select the number of columns you would like for your footer."
+msgstr ""
+
+#: library/option-config.php:1464
+msgid "Footer Copyright Section Text"
+msgstr ""
+
+#: library/option-config.php:1465
+msgid "Please enter the copyright section text. e.g. All Rights Reserved, Company ltd.<br />You can use {YEAR} to show current year automatically"
+msgstr ""
+
+#: library/option-config.php:1472
+msgid "Disable Automatic Copyright"
+msgstr ""
+
+#: library/option-config.php:1482 library/option-config.php:1488
+msgid "Typography"
+msgstr ""
+
+#: library/option-config.php:1504
+msgid "Default sitewide Font face."
+msgstr ""
+
+#: library/option-config.php:1514
+msgid "Content font size (px)"
+msgstr ""
+
+#: library/option-config.php:1515
+msgid "Min: 10px, Max: 30px, Default: 16.5px"
+msgstr ""
+
+#: library/option-config.php:1516
+msgid "Note: Font size set on WPGlow Builder elements is not affected"
+msgstr ""
+
+#: library/option-config.php:1531
+msgid "Default Font color"
+msgstr ""
+
+#: library/option-config.php:1560
+msgid "Content Settings"
+msgstr ""
+
+#: library/option-config.php:1566
+msgid "Breadcrumbs"
+msgstr ""
+
+#: library/option-config.php:1567
+msgid "Turn breadcrumbs on or off (site-wide)"
+msgstr ""
+
+#: library/option-config.php:1574
+msgid "Index Page Titles"
+msgstr ""
+
+#: library/option-config.php:1575
+msgid "Hide titles for different index page types"
+msgstr ""
+
+#: library/option-config.php:1582
+msgid "Hide Title for Category posts page"
+msgstr ""
+
+#: library/option-config.php:1590
+msgid "Hide Title for Tag posts page"
+msgstr ""
+
+#: library/option-config.php:1598
+msgid "Hide Title for Author posts page"
+msgstr ""
+
+#: library/option-config.php:1606
+msgid "Hide Title for Archive posts page"
+msgstr ""
+
+#: library/option-config.php:1607
+msgid "Daily, Monthly, Yearly"
+msgstr ""
+
+#: library/option-config.php:1621
+msgid "Posts Settings"
+msgstr ""
+
+#: library/option-config.php:1622
+msgid "Settings related to posts in blog page and single view"
+msgstr ""
+
+#: library/option-config.php:1629
+msgid "Index & Archive Template Page"
+msgstr ""
+
+#: library/option-config.php:1630
+msgid "Select page to act as a template for blog and archive pages<br /><i>Note: use Content element on the selected page to fill it with content automatically</i>"
+msgstr ""
+
+#: library/option-config.php:1638
+msgid "Posts Template Page"
+msgstr ""
+
+#: library/option-config.php:1639
+msgid "Select page to act as a template for posts<br /><i>Note: use Content element on the selected page to fill it with content automatically</i>"
+msgstr ""
+
+#: library/option-config.php:1647
+msgid "Author Profiles"
+msgstr ""
+
+#: library/option-config.php:1654
+msgid "Display Featured Images on"
+msgstr ""
+
+#: library/option-config.php:1655
+msgid "Display featured images on blog for posts."
+msgstr ""
+
+#: library/option-config.php:1669
+msgid "Hide Author"
+msgstr ""
+
+#: library/option-config.php:1677
+msgid "Hide Date"
+msgstr ""
+
+#: library/option-config.php:1685
+msgid "Hide Categories"
+msgstr ""
+
+#: library/option-config.php:1693
+msgid "Hide Tags"
+msgstr ""
+
+#: library/option-config.php:1701
+msgid "Hide Comments Count"
+msgstr ""
+
+#: library/option-config.php:1736
+msgid "404 Template Page"
+msgstr ""
+
+#: library/option-config.php:1737
+msgid "Select page to act as a template for 404 error page<br />"
+msgstr ""
+
+#: library/option-config.php:1745
+msgid "Password protected page Template"
+msgstr ""
+
+#: library/option-config.php:1746
+msgid "Select page to act as a template for pages, posts which are password protected<br />By default, page's or post's own template is used."
+msgstr ""
+
+#: library/option-config.php:1757
+msgid "Woocommerce"
+msgstr ""
+
+#: library/option-config.php:1764
+msgid "Products Template Page"
+msgstr ""
+
+#: library/option-config.php:1765
+msgid "Select page to act as a template for products<br /><i>Note: use Content element on the selected page to fill it with content automatically</i>"
+msgstr ""
+
+#: library/option-config.php:1773
+msgid "Shop Template Page"
+msgstr ""
+
+#: library/option-config.php:1774
+msgid "Select page to act as a template for woocommerce shop, categories etc<br /><i>Note: use Content element on the selected page to fill it with content automatically</i>"
+msgstr ""
+
+#: library/option-config.php:1782
+msgid "Show Cart on Header"
+msgstr ""
+
+#: library/option-config.php:1790 library/option-config.php:1800
+msgid "Product page middle section color"
+msgstr ""
+
+#: library/option-config.php:1813
+msgid "Page Builder"
+msgstr ""
+
+#: library/option-config.php:1820
+msgid "Disable PageBuilder for"
+msgstr ""
+
+#: library/option-config.php:1821
+msgid "Check post types where you do not want ProStyler Builder to be activated"
+msgstr ""
+
+#: library/option-config.php:1829
+msgid "Caching"
+msgstr ""
+
+#: library/option-config.php:1830
+msgid "Select \"On\" if you want to cache CSS and JS files of ProStyler Builder"
+msgstr ""
+
+#: library/option-config.php:1833
+msgid "Done!"
+msgstr ""
+
+#: library/option-config.php:1834
+msgid "Clear cache"
+msgstr ""
+
+#: library/option-config.php:1845
+msgid "Disable help tab"
+msgstr ""
+
+#: library/option-config.php:1846
+msgid "Select \"On\" if you want to hide the Help tab from Elements window from ProStyler Builder"
+msgstr ""
+
+#: library/option-config.php:1854
+msgid "<strong>Theme URL:</strong> "
+msgstr ""
+
+#: library/option-config.php:1855
+msgid "<strong>Author:</strong> "
+msgstr ""
+
+#: library/option-config.php:1856
+msgid "<strong>Version:</strong> "
+msgstr ""
+
+#: library/option-config.php:1860
+msgid "<strong>Tags:</strong> "
+msgstr ""
+
+#: library/option-config.php:1866
+msgid "License"
+msgstr ""
+
+#: library/option-config.php:1873
+msgid "License key"
+msgstr ""
+
+#: library/option-config.php:1894
+msgid "Unbranded Mode"
+msgstr ""
+
+#: library/option-config.php:1911
+msgid "Lock Options panel"
+msgstr ""
+
+#: library/option-config.php:1923
+msgid "Options Panel Password"
+msgstr ""
+
+#: library/option-config.php:1949
+msgid "Pro Upgrade"
+msgstr ""
+
+#: library/option-config.php:1966
+msgid "Regenerating theme stylesheet can often fix such issues"
+msgstr ""
+
+#: library/option-config.php:1974
+msgid "This will convert all your site data from older versions of ProStyler to ProStyler Rev"
+msgstr ""
+
+#: library/option-config.php:2002
+msgid "Documentation"
+msgstr ""
+
+#: library/option-config.php:2027
+msgid "ProStyler Rev"
+msgstr ""
+
+#: library/option-config.php:2028
+msgid "ProStyler"
+msgstr ""
+
+#: library/option-config.php:2091
+msgid "<p>Welcome to ProStyler options panel</p>"
+msgstr ""
+
+#: library/option-config.php:2094
+msgid "<p class=\"cbt-branding-remove\">Theme developed and powered by <a href=\"http://www.prostylertheme.com\" target=\"_blank\">ProStyler</a></p>"
+msgstr ""
+
+#: not-found.php:17
+msgid "Not Found"
+msgstr ""
+
+#: not-found.php:20
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr ""
+
+#: search.php:1
+msgid "Search Results for"
+msgstr ""
+
+#: template_parts/archive.php:85 template_parts/posts.php:92
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: template_parts/archive.php:86 template_parts/posts.php:93
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: template_parts/archive.php:95 template_parts/posts.php:102
+msgid "404"
+msgstr ""
+
+#: template_parts/archive_titles.php:19
+msgid "Posts Categorised:"
+msgstr ""
+
+#: template_parts/archive_titles.php:24
+msgid "Posts Tagged:"
+msgstr ""
+
+#: template_parts/archive_titles.php:33
+msgid "Posts By:"
+msgstr ""
+
+#: template_parts/archive_titles.php:38
+msgid "Daily Archives:"
+msgstr ""
+
+#: template_parts/archive_titles.php:43
+msgid "Monthly Archives:"
+msgstr ""
+
+#: template_parts/archive_titles.php:48
+msgid "Yearly Archives:"
+msgstr ""
+
+#: woocommerce/content-product_cat.php:53
+msgid "View all"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Pro Styler Rev"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://prostylertheme.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "ProStyler is a very flexible and customizable Wordpress theme."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ProStyler (Michael.F & Yunus.J)"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://prostylertheme.com"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Blank Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page w/ Sidebar Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Home Page Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Page - Right Sidebar"
+msgstr ""
